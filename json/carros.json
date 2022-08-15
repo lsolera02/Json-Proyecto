@@ -1,0 +1,60 @@
+{
+    "carros": [
+        {
+            "clasificacion": "SUV",
+            "marca": "Kia",
+            "imagen": "https://si0sgs.github.io/EstateAgency/assets/img/property-1.jpg",
+            "detalle": {
+                "puertas":4,
+                "pasajeros":5
+            }
+        },
+        {
+            "clasificacion": "SUV",
+            "marca": "Kia",
+            "imagen": "https://si0sgs.github.io/EstateAgency/assets/img/property-1.jpg",
+            "detalle": {
+                "puertas":4,
+                "pasajeros":5
+            }
+        },
+        {
+            "clasificacion": "SUV",
+            "marca": "Kia",
+            "imagen": "https://si0sgs.github.io/EstateAgency/assets/img/property-1.jpg",
+            "detalle": {
+                "puertas":4,
+                "pasajeros":5
+            }
+        },
+        {
+            "clasificacion": "SUV",
+            "marca": "Kia",
+            "imagen": "https://si0sgs.github.io/EstateAgency/assets/img/property-1.jpg",
+            "detalle": {
+                "puertas":4,
+                "pasajeros":5
+            }
+        },
+
+        {
+            "clasificacion": "SUV",
+            "marca": "Kia",
+            "imagen": "https://si0sgs.github.io/EstateAgency/assets/img/property-1.jpg",
+            "detalle": {
+                "puertas":4,
+                "pasajeros":5
+            }
+        },
+        {
+            "clasificacion": "SUV",
+            "marca": "Kia",
+            "imagen": "https://si0sgs.github.io/EstateAgency/assets/img/property-1.jpg",
+            "detalle": {
+                "puertas":4,
+                "pasajeros":5
+            }
+            
+        }       
+   ]
+}
