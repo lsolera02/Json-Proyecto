@@ -1,0 +1,48 @@
+{
+    "carros": [
+        {
+            "modelo": "Sportage",
+            "clasificacion": "SUV 4x2",
+            "marca": "Kia",
+            "cambios": "Automático",
+            "imagen": "https://lsolera02.github.io/Json-Proyecto/json/kia-sportage-2017.jpg",
+            "detalle": {
+                "puertas":4,
+                "pasajeros":4
+            }
+        },
+        {
+            "modelo": "H1",
+            "clasificacion": "Microbus",
+            "marca": "Hyundai",
+            "cambios": "Manual",
+            "imagen": "https://lsolera02.github.io/Json-Proyecto/json/hyundai-h1.jpeg",
+            "detalle": {
+                "puertas":3,
+                "pasajeros":7
+            }
+        },
+        {
+            "modelo": "Accent",
+            "clasificacion": "Automóvil",
+            "marca": "Hyundai",
+            "cambios": "Manual",
+            "imagen": "https://lsolera02.github.io/Json-Proyecto/json/hyundai-accent-2017.jpg",
+            "detalle": {
+                "puertas":4,
+                "pasajeros":4
+            }
+        },
+        {
+            "modelo": "Versa",
+            "clasificacion": "Automóvil",
+            "marca": "Nissan",
+            "cambios": "Automático",
+            "imagen": "https://lsolera02.github.io/Json-Proyecto/json/nissan-versa.jpg",
+            "detalle": {
+                "puertas":4,
+                "pasajeros":4
+            }
+        }
+   ]
+}
