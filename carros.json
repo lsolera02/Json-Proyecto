@@ -4,10 +4,10 @@
             "modelo": "Sportage",
             "clasificacion": "SUV 4x2",
             "marca": "Kia",
-            "imagen": "https://lsolera02.github.io/Json-Proyecto/kia-sportage-2017.jpg",
+            "imagen": "https://lsolera02.github.io/recursos-proyecto/kia-sportage-2017.jpg",
             "detalle": {
                 "puertas":4,
-                "pasajeros":4,
+                "pasajeros":5,
                 "cambios": "Automático"
             }
         },
@@ -15,7 +15,7 @@
             "modelo": "H1",
             "clasificacion": "Microbus",
             "marca": "Hyundai",
-            "imagen": "https://lsolera02.github.io/Json-Proyecto/hyundai-h1.jpeg",
+            "imagen": "https://lsolera02.github.io/recursos-proyecto/hyundai-h1.jpeg",
             "detalle": {
                 "puertas":3,
                 "pasajeros":7,
@@ -26,10 +26,10 @@
             "modelo": "Accent",
             "clasificacion": "Automóvil",
             "marca": "Hyundai",
-            "imagen": "https://lsolera02.github.io/Json-Proyecto/hyundai-accent-2017.jpg",
+            "imagen": "https://lsolera02.github.io/recursos-proyecto/hyundai-accent-2017.jpg",
             "detalle": {
                 "puertas":4,
-                "pasajeros":4,
+                "pasajeros":5,
                 "cambios": "Manual"
             }
         },
@@ -37,10 +37,10 @@
             "modelo": "Versa",
             "clasificacion": "Automóvil",
             "marca": "Nissan",
-            "imagen": "https://lsolera02.github.io/Json-Proyecto/nissan-versa.jpg",
+            "imagen": "https://lsolera02.github.io/recursos-proyecto/nissan-versa.jpg",
             "detalle": {
                 "puertas":4,
-                "pasajeros":4,
+                "pasajeros":5,
                 "cambios": "Automático"
             }
         }
